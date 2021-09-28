@@ -282,35 +282,35 @@ body, html {
 }
 
 .delay-1 {
-  animation-delay: 0.1s;
+  animation-delay: 1s;
 }
 
 .delay-2 {
-  animation-delay: 0.2s;
+  animation-delay: 2s;
 }
 
 .delay-3 {
-  animation-delay: 0.3s;
+  animation-delay: 3s;
 }
 
 .delay-4 {
-  animation-delay: 0.4s;
+  animation-delay: 4s;
 }
 
 .delay-5 {
-  animation-delay: 0.5s;
+  animation-delay: 5s;
 }
 
 .delay-6 {
-  animation-delay: 0.6s;
+  animation-delay: 6s;
 }
 
 .delay-7 {
-  animation-delay: 0.7s;
+  animation-delay: 7s;
 }
 
 .delay-8 {
-  animation-delay: 0.8s;
+  animation-delay: 8s;
 }
 
 .wrapBtn {
