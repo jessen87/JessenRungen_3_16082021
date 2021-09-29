@@ -278,39 +278,39 @@ body, html {
 }
 
 .delay-0 {
-  animation-delay: 0s;
+  animation-delay: 0s/5;
 }
 
 .delay-1 {
-  animation-delay: 1s;
+  animation-delay: 1s/5;
 }
 
 .delay-2 {
-  animation-delay: 2s;
+  animation-delay: 2s/5;
 }
 
 .delay-3 {
-  animation-delay: 3s;
+  animation-delay: 3s/5;
 }
 
 .delay-4 {
-  animation-delay: 4s;
+  animation-delay: 4s/5;
 }
 
 .delay-5 {
-  animation-delay: 5s;
+  animation-delay: 5s/5;
 }
 
 .delay-6 {
-  animation-delay: 6s;
+  animation-delay: 6s/5;
 }
 
 .delay-7 {
-  animation-delay: 7s;
+  animation-delay: 7s/5;
 }
 
 .delay-8 {
-  animation-delay: 8s;
+  animation-delay: 8s/5;
 }
 
 .wrapBtn {
