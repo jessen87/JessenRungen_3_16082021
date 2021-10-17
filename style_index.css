@@ -206,6 +206,13 @@ body, html {
   display: flex;
   position: relative;
 }
+.tuto__step:hover {
+  opacity: 0.8;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.6);
+  background: white;
+}
 @media (min-width: 64rem) {
   .tuto__step {
     flex: 1;
@@ -245,6 +252,7 @@ body, html {
   background-color: #f6f6f6;
   padding: 2rem 1rem;
 }
+
 .cards {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
@@ -511,39 +519,39 @@ body, html {
 }
 
 .delay-0 {
-  animation-delay: 0s;
+  animation-delay: 0s/4;
 }
 
 .delay-1 {
-  animation-delay: 0.1s;
+  animation-delay: 1s/4;
 }
 
 .delay-2 {
-  animation-delay: 0.2s;
+  animation-delay: 2s/4;
 }
 
 .delay-3 {
-  animation-delay: 0.3s;
+  animation-delay: 3s/4;
 }
 
 .delay-4 {
-  animation-delay: 0.4s;
+  animation-delay: 4s/4;
 }
 
 .delay-5 {
-  animation-delay: 0.5s;
+  animation-delay: 5s/4;
 }
 
 .delay-6 {
-  animation-delay: 0.6s;
+  animation-delay: 6s/4;
 }
 
 .delay-7 {
-  animation-delay: 0.7s;
+  animation-delay: 7s/4;
 }
 
 .delay-8 {
-  animation-delay: 0.8s;
+  animation-delay: 8s/4;
 }
 
 .wrapBtn {
